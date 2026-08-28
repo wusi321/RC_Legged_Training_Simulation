@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Build and package outputs
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+
+# Training and runtime outputs
+logs/
+runs/
+wandb/
+*.log
+sim2sim_log_*.txt
+mjcf/sim2sim_temp.xml
+rc_mjlab/mjcf/sim2sim_temp.xml
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

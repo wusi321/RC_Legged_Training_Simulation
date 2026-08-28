@@ -1,6 +1,8 @@
 # RC_Legged_Training_Simulation
 
-本目录整理自 `RC_WheelLeg` 轮足机器人项目，用于 RM 论坛开源和 GitHub/Wiki 说明。内容聚焦强化学习训练、MuJoCo 仿真、Sim2Sim 策略验证和部署前接口检查；实机部署、ROS 2/C++ 控制主线、比赛任务集成和打点工具见同级目录 [`../RC_Legged_Control/`](../RC_Legged_Control/)。完整项目入口见 [RC_WheelLeg 轮足全开源](https://github.com/zeitvex/RC_WheelLeg)。
+## 山东华宇工学院16DOF轮足机器人算法开源仓库
+
+本目录整理自 `RC_WheelLeg` 轮足机器人开源项目，用于 RM 论坛开源和 GitHub/Wiki 说明。内容聚焦强化学习训练、MuJoCo 仿真、Sim2Sim 策略验证和部署前接口检查；实机部署、ROS 2/C++ 控制主线、比赛任务集成和打点工具见项目 [`RC_Legged_Control/`](https://github.com/Dichen33/)。全开源完整项目入口 [RC_WheelLeg 轮足全开源](https://github.com/zeitvex/RC_WheelLeg)。
 
 本整理包采用 MIT 开源协议，协议正文见 [`LICENSE`](LICENSE)。第三方依赖、mjlab、MuJoCo、PyTorch、CUDA、网格资源和示例策略权重仍需遵守其各自许可证或授权要求。
 

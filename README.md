@@ -1,6 +1,6 @@
 # RC_Legged_Training_Simulation
 
-## 山东华宇工学院16DOF轮足机器人算法开源仓库
+## 【RC2026 山东华宇工学院HYNova战队】16DOF轮足机器人强化学习、仿真与 Sim2Sim 开源
 
 本目录整理自 `RC_WheelLeg` 轮足机器人开源项目，用于 RM 论坛开源和 GitHub/Wiki 说明。内容聚焦强化学习训练、MuJoCo 仿真、Sim2Sim 策略验证和部署前接口检查；实机部署、ROS 2/C++ 控制主线、比赛任务集成和打点工具见项目 [`RC_Legged_Control/`](https://github.com/Dichen33/)。全开源完整项目入口 [RC_WheelLeg 轮足全开源](https://github.com/zeitvex/RC_WheelLeg)。
 
